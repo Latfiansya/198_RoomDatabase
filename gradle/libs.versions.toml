@@ -48,5 +48,3 @@ ksp = { id = "com.google.devtools.ksp", version.ref = "kspver" }
 
 [bundles]
 room = ["room-runtime", "room-ktx"]
-
-
